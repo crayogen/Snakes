@@ -1,7 +1,7 @@
 # Snakes
 Online multiplayer Snakes game
 
-This contains code for both the server and the client. The game will have a single server and multiple clients/players.<br/><br/>
+This contains code for both the server and the client. The game will have a single server and multiple clients/players.<br/>
 #### The command for starting the server should be as follows:
 + python server.py IP-address port number-of-players </br>
     - e.g python Snakes_Server.py 192.168.5.5 2000 5 <br/>
