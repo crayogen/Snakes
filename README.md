@@ -1,5 +1,5 @@
 # Snakes
-Online multiplayer Snakes game
+Online multiplayer Snakes game in python.
 
 This contains code for both the server and the client. The game will have a single server and multiple clients/players.<br/>
 #### The command for starting the server should be as follows:
